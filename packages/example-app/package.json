@@ -1,0 +1,19 @@
+{
+  "name": "example-app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "shibiludheen <thykkadenshibilu@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/example-app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/example-app.test.js"
+  }
+}
